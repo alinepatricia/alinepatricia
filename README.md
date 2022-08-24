@@ -1,5 +1,4 @@
-### Hi there 👋
-## Olá, Eu sou a Aline!
+## Olá, Eu sou a Aline!👋
 
 <div align="center">
   <a href="https://github.com/alinegarbato">
