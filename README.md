@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/alinegarbato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinegarbato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinegarbato&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinegarbato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ## About Me! ✨
@@ -23,6 +23,8 @@ I'm in the 3rd semester of a Systems Analysis and Development Technologist degre
   
 Currently, I have been studying databases and python.
   
+In my profile, you will find personal projects, college projects, and projects done in courses.
+  
 ## 📚 I'm Learning:
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -37,7 +39,13 @@ Currently, I have been studying databases and python.
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
   
-  ##
+  ##Projects
+  <p align="left">
+  <a href="https://github.com/alinegarbato/todoapp">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alinegarbato&repo=todoapp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="todoapp">
+  </a>
+  </p>
+
   
   ## 📫 Contact
  
