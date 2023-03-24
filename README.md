@@ -1,4 +1,4 @@
-# Hi, !'m Aline!👋
+# 👋 Hi, !'m Aline!
 
 <div align="center">
   <a href="https://github.com/alinegarbato">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinegarbato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-## About Me! ✨
+##  ✨ About Me!
   
 <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/alinegarbato/alinegarbato/blob/main/octocat-1679669901194.png">
 
@@ -39,12 +39,20 @@ In my profile, you will find personal projects, college projects, and projects d
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
   
-  ##Projects
+  <details open> 
+  <summary><h2>📘 My Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-  <a href="https://github.com/alinegarbato/todoapp">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alinegarbato&repo=todoapp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="todoapp">
-  </a>
-  </p>
+    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=alinegarbato&repo=todoapp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="todoapp"></a>
+    <a href="https://github.com/alinegarbato/SistemaBancario"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alinegarbato&repo=SistemaBancario&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SistemaBancario"></a>
+    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=alinegarbato&repo=ocean-jornada-fullstack&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ocean-jornada-fullstack"></a>
+    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alinegarbato&repo=alinegarbato.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="alinegarbato.github.io"></a>
+   </p>
+
+  <a href="https://github.com/alinegarbato?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
 
   
   ## 📫 Contact
