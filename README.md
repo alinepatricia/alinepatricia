@@ -1,14 +1,14 @@
 # 👋 Hi, !'m Aline!
 
 <div align="center">
-  <a href="https://github.com/alinegarbato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinegarbato&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinegarbato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/alinepatricia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinepatricia&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinepatricia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ##  ✨ About Me!
   
-<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/alinegarbato/alinegarbato/blob/main/octocat-1679669901194.png">
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/alinepatricia/alinepatricia/blob/main/octocat-1679669901194.png">
 
 </br>
 </br>
@@ -45,15 +45,15 @@ In my profile, you will find personal projects, college projects, and projects d
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/alinegarbato/todoapp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=alinegarbato&repo=todoapp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="todoapp"></a>
-    <a href="https://github.com/alinegarbato/SistemaBancario"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alinegarbato&repo=SistemaBancario&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SistemaBancario"></a>
-    <a href="https://github.com/alinegarbato/ocean-jornada-fullstack"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=alinegarbato&repo=ocean-jornada-fullstack&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ocean-jornada-fullstack"></a>
-    <a href="https://github.com/alinegarbato/alinegarbato.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alinegarbato&repo=alinegarbato.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="alinegarbato.github.io"></a>
-    <a href="https://github.com/alinegarbato/Desafios_Banco_Pan_Java_Developer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alinegarbato&repo=Desafios_Banco_Pan_Java_Developer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="alinegarbato.github.io"></a>
-    <a href="https://github.com/alinegarbato/Java_Capgemini_Study_Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alinegarbato&repo=Java_Capgemini_Study_Project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="alinegarbato.github.io"></a>
+    <a href="https://github.com/alinepatricia/todoapp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=alinepatricia&repo=todoapp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="todoapp"></a>
+    <a href="https://github.com/alinepatricia/SistemaBancario"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alinepatricia&repo=SistemaBancario&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SistemaBancario"></a>
+    <a href="https://github.com/alinepatricia/ocean-jornada-fullstack"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=alinepatricia&repo=ocean-jornada-fullstack&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ocean-jornada-fullstack"></a>
+    <a href="https://github.com/alinepatricia/alinepatricia.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alinepatricia&repo=alinepatricia.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="alinepatricia.github.io"></a>
+    <a href="https://github.com/alinepatricia/Desafios_Banco_Pan_Java_Developer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alinepatricia&repo=Desafios_Banco_Pan_Java_Developer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="alinepatricia.github.io"></a>
+    <a href="https://github.com/alinepatricia/Java_Capgemini_Study_Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alinepatricia&repo=Java_Capgemini_Study_Project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="alinepatricia.github.io"></a>
    </p>
 
-  <a href="https://github.com/alinegarbato?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/alinepatricia?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
   
@@ -63,7 +63,7 @@ In my profile, you will find personal projects, college projects, and projects d
   <a href = "mailto:aline.p.garbato@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aline-garbato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/alinegarbato/alinegarbato/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/alinepatricia/alinepatricia/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
