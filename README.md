@@ -1,12 +1,13 @@
-# 👋 Hi, !'m Aline!
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=180)
 
-<div align="center">
-  <a href="https://github.com/alinepatricia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinepatricia&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinepatricia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=852985&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=500&height=150&lines=%F0%9F%91%8B+Ol%C3%A1!!+Eu+sou+a+Aline!!!!;Bem+Vindo+ao+Meu+Perfil!!!!)](https://git.io/typing-svg)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alinepatricia&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alinepatricia&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
   
-##  ✨ About Me!
+##  ✨ Sobre Mim!
   
 <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/alinepatricia/alinepatricia/blob/main/octocat-1679669901194.png">
 
@@ -15,32 +16,26 @@
 
 <div dsplay="inline-block">
   
-Hi, I'm Aline, passionate about coffee, books and software development! 
+**Olá!! Muito Prazer, sou a Aline!**  
+**Sou apaixonada por livros, chá e tecnologia!!**
 
-Currently working with Technical Customer Service and starting a career transition to Front-End Development.
-
-I'm in the 3rd semester of a Systems Analysis and Development Technologist degree, expected to graduate in December 2023.
+👩‍💻 Sempre fui apaixonada por tecnologia, porém sempre atuei com atendimento ao cliente, com foco em suporte técnico.  
+🥰 Decidi seguir minha paixão, e hoje, com 35 anos, estou concluindo a faculdade de Analise e Desenvolvimento de Sistemas, buscando uma oportunidade na área, e já me preparando para iniciar a pós.  
+🖥 Aqui, você pode me acompanhar no meu desenvolvimento, assim como projetos que venho criando!!
   
-Currently, I have been studying databases and python.
-  
-In my profile, you will find personal projects, college projects, and projects done in courses.
-  
-## 📚 I'm Learning:
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-## 🖥️ Technologies & Tools:
+## 🖥️ Tecnologias & Ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">       
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
 </div>
   
   <details open> 
-  <summary><h2>📘 My Projects</h2></summary>
+  <summary><h2>📘 Alguns de Meus Projetos</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -57,12 +52,13 @@ In my profile, you will find personal projects, college projects, and projects d
 </details>
 
   
-  ## 📫 Contact
- 
+ ## 📫  Conecte-se comigo
+
 <div> 
   <a href = "mailto:aline.p.garbato@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aline-patricia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+
   ![Snake animation](https://github.com/alinepatricia/alinepatricia/blob/output/github-contribution-grid-snake.svg)
  
 </div>
