@@ -19,8 +19,8 @@
 **Olá!! Muito Prazer, sou a Aline!**  
 **Sou apaixonada por livros, chá e tecnologia!!**
 
-👩‍💻 Sempre fui apaixonada por tecnologia, porém sempre atuei com atendimento ao cliente, com foco em suporte técnico.  
-🥰 Decidi seguir minha paixão, e hoje, com 35 anos, estou concluindo a faculdade de Analise e Desenvolvimento de Sistemas, buscando uma oportunidade na área, e já me preparando para iniciar a pós.  
+👩‍💻 Sempre fui apaixonada por tecnologia, e atuo como Analista de Redes/NOC.  
+🥰 Decidi seguir minha paixão, e hoje, com 35 anos, sou formada em Analise e Desenvolvimento de Sistemas, buscando uma oportunidade na área, e já me preparando para iniciar a pós.  
 🖥 Aqui, você pode me acompanhar no meu desenvolvimento, assim como projetos que venho criando!!
   
 ## 🖥️ Tecnologias & Ferramentas:
